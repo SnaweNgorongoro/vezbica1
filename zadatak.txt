@@ -1,0 +1,11 @@
+
+ Potrebno je napisati program koji ucitava jedan broj i proverava da li je pozitivan ili negativan.
+ U programu cemo prvo ucitati broj pomocu funkcije prompt(), a onda ga uporediti sa nulom da bi 
+ utvrdili da li je pozotivan ili negativan.
+
+    var a = prompt("Unesite broj:");
+	if (a>=0) {
+	      alert ("Broj je pozitivan");
+	}   else {
+	      alert ("Broj je nagativan");
+}
